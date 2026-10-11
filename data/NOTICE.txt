@@ -1,0 +1,17 @@
+Make Me a Hanzi by Skishore et al.
+https://github.com/skishore/makemeahanzi
+Revision: bddc96d41bef78427ed0e034e9f7e31d71fd1b92
+
+Dictionary derived from Unihan and CJKlib: LGPL version 3 or later.
+Stroke graphics derived from Arphic PL KaitiM GB and Arphic PL UKai.
+Copyright (C) 1999 Arphic Technology Co., Ltd.
+Graphics may be redistributed under the Arphic Public License. No warranty.
+
+2026-10-08: Data repackaged in SQLite with normalized search keys.
+2026-10-10: Family-facing English definitions and search keys filtered.
+Some common definitions use selected neutral meanings; unsuitable definitions
+are omitted from the app's displayed/searchable fields. Original JSON is unchanged.
+Original dictionary and graphics JSON preserved in database columns.
+No changes to stroke geometry. Export original records with Scripts/export_hanzi.py.
+The repackaged data is freely available under its respective upstream licenses.
+See COPYING.txt, LGPL.txt, and ARPHICPL.txt.
