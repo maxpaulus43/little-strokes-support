@@ -8,4 +8,4 @@ GitHub Pages uses the account's existing custom domain. The GitHub Pages URL htt
 
 Support: support@chefness.org
 
-This repository contains the support website and redistributable licensed character data with its processing scripts. The Swift app source is maintained separately in a private repository. There are no accounts, analytics, forms, or user handwriting in this site.
+This repository contains the support website and redistributable licensed character data with its processing scripts. The Swift app source is maintained separately in a private repository. This site has no accounts, analytics, forms, or user handwriting; optional sync in the app is described on the privacy page.
